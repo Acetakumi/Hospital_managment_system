@@ -1,0 +1,3 @@
+C:/Users/aceta/CLionProjects/doctors/cmake-build-debug/CMakeFiles/doctors.dir
+C:/Users/aceta/CLionProjects/doctors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aceta/CLionProjects/doctors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
